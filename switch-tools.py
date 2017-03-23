@@ -3,6 +3,7 @@ import re
 import telnetlib
 from socket import error as socket_error
 
+#cos different command syntax
 DLINK_DES3526 = []
 DLINK_C1 = []
 DLINK_3010 = []
