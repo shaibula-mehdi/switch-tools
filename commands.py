@@ -1,0 +1,5 @@
+ENTER = '\r'
+SAVE = 'save'
+SHOW_SWITCH = 'show switch'
+DISABLE_PORTS = 'conf ports {0} state disable'
+SHOW_DESCRIPTION = 'show ports {0} des'
